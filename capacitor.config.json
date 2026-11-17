@@ -1,0 +1,9 @@
+{
+  "appId": "com.abdullah.digitalskillsbattle",
+  "appName": "معركة المهارات الرقمية 3D",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
